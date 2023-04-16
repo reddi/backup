@@ -12,5 +12,5 @@
 * https://blog.baeke.info/2022/07/23/first-steps-with-crossplane/
 * https://www.youtube.com/watch?v=5lWUWat_bbY
 
-### Custom provider
+### Custom providers
 * https://www.youtube.com/watch?v=EN_vqJivZrk
